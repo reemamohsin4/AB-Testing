@@ -13,3 +13,7 @@ I perform three different tests:
 
 * `ab_data.csv`
 * `countries.csv`
+
+## Preparing data
+
+After reading the data from `ab_data.csv` into a Dataframe, I explore the table and address untidy, missing, and duplicated data. 
