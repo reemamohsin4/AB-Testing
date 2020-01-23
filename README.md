@@ -17,3 +17,7 @@ I perform three different tests:
 ## Preparing data
 
 After reading the data from `ab_data.csv` into a Dataframe, I explore the table and address untidy, missing, and duplicated data. 
+
+## Manual Probability
+
+Once my data is cleaned and prepared for analysis, I use `.mean()` to manually calculate the proportion of users in both the control and treatment group that converted.
